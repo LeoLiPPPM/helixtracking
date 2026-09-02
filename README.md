@@ -1,4 +1,4 @@
-# TrackForge
+# HelixTrackig
 
 TrackForge is a C++20 charged-particle track reconstruction pipeline. It
 simulates a helical trajectory through a uniform solenoidal magnetic field,
@@ -8,9 +8,9 @@ least-squares refinement, and estimates transverse momentum from curvature.
 ## Build, test, and run
 
 ```bash
-make -C trackforge test
-make -C trackforge demo
-python trackforge/analysis/plot_results.py --input trackforge/outputs
+make -C helixtracking test
+make -C helixtracking demo
+python helixtracking/analysis/plot_results.py --input helixtracking/outputs
 ```
 
 No third-party C++ library is required. The implementation uses small,
