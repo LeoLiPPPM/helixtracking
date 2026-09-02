@@ -1,0 +1,14 @@
+{
+  "total_hits": 70,
+  "accepted_hits": 56,
+  "true_positive_hits": 56,
+  "false_positive_hits": 0,
+  "estimated_radius_m": 0.82034521,
+  "radius_error_percent": 0.04209894,
+  "estimated_pitch_m_per_rad": 0.14024342,
+  "pitch_error_percent": 0.17386836,
+  "estimated_pt_gev_c": 0.36889996,
+  "momentum_error_percent": 0.04209894,
+  "radial_rmse_mm": 1.29950652,
+  "longitudinal_rmse_mm": 2.55415562
+}
