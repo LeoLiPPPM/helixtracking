@@ -1,6 +1,6 @@
-# HelixTrackig
+# HelixTracking
 
-TrackForge is a C++20 charged-particle track reconstruction pipeline. It
+HelixTracking is a C++20 charged-particle track reconstruction pipeline. It
 simulates a helical trajectory through a uniform solenoidal magnetic field,
 adds detector noise and false hits, recovers the track with RANSAC and
 least-squares refinement, and estimates transverse momentum from curvature.
